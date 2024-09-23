@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harini-nachimuthu" alt="harini-nachimuthu" /></a> </p>
 
-- 🔭 I worked as **I worked as a Database Administrator at LTIMindtree.**
+- 🔭 I worked as **Database Administrator at LTIMindtree.**
 
 - 🌱 I’m currently learned **Core Java,Manual Testing,Automation Testing,Selenium WebDriver,Agile Methodologies,Git and Github,JIRA,Junit,Testng,ExtentReport,BDD-Cucumber Framework,Continuous Integration,API Testing using Postman.**
 
