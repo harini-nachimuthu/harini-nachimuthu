@@ -6,14 +6,23 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harini-nachimuthu" alt="harini-nachimuthu" /></a> </p>
 
 - 🔭 I worked as **Database Administrator at LTIMindtree.**
+
 - 🌱 I’m currently learning **Core Java, Manual Testing, Automation Testing, Selenium WebDriver, Agile Methodologies, Git and Github, JIRA, JUnit, TestNG, ExtentReport, BDD-Cucumber Framework, Continuous Integration, API Testing using Postman.**
-- 📫 How to reach me: **[harini.nachimuthu@gmail.com](mailto:harini.nachimuthu@gmail.com)**
+
+- 👨‍💻 - 📫 How to reach me: **[harini.nachimuthu@gmail.com](mailto:harini.nachimuthu@gmail.com)**
 - 📄 Know about my experiences: [Harini's_Resume](https://drive.google.com/file/d/1KGsRtdFAmB-Fa8VtxSVxxiQt5ikXGg5u/view?usp=drive_link)
 - 🌐 Check out my portfolio: [Harini's_Portfolio](https://stripe-ocicat-3a1.notion.site/Hi-I-m-Harini-Nachimuthu-I-m-Software-Tester-127d4479bbdd809aad6ef636bcd9bc28)
+- 📝 I write articles on [Harini's_blog](https://medium.com/@harini.nachimuthu)
+
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/harini-nachimuthu-71b64719a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/harini-nachimuthu-71b64719a/" height="30" width="40" /></a>
+<a href="https://medium.com/@harini.nachimuthu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@harini.nachimuthu" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/harini_nachimut1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="harini_nachimut1" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
