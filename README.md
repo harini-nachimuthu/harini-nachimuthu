@@ -12,7 +12,6 @@
 - 👨‍💻 - 📫 How to reach me: **[harini.nachimuthu@gmail.com](mailto:harini.nachimuthu@gmail.com)**
 - 📄 Know about my experiences: [Harini's_Resume](https://drive.google.com/file/d/1KGsRtdFAmB-Fa8VtxSVxxiQt5ikXGg5u/view?usp=drive_link)
 - 🌐 Check out my portfolio: [Harini's_Portfolio](https://stripe-ocicat-3a1.notion.site/Hi-I-m-Harini-Nachimuthu-I-m-Software-Tester-127d4479bbdd809aad6ef636bcd9bc28)
-- 📝 I write articles on [Harini's_blog](https://medium.com/@harini.nachimuthu)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
