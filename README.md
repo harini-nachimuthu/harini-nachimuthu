@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning **Core Java, Manual Testing, Automation Testing, Selenium WebDriver, Agile Methodologies, Git and Github, JIRA, JUnit, TestNG, ExtentReport, BDD-Cucumber Framework, Continuous Integration, API Testing using Postman.**
 
 - 👨‍💻 - 📫 How to reach me: **[harini.nachimuthu@gmail.com](mailto:harini.nachimuthu@gmail.com)**
-- 📄 Know about my experiences: [Harini's_Resume](https://drive.google.com/file/d/1qD-OufeFj3nd-gQJKbqQ4NRlsjTF2QSI/view?usp=drivesdk)
+- 📄 Know about my experiences: [Harini's_Resume](https://drive.google.com/file/d/1cz7HnRuyta9gWuzhml33mdmFYD-48D-O/view?usp=drive_link)
 - 🌐 Check out my portfolio: [Harini's_Portfolio](https://stripe-ocicat-3a1.notion.site/Hi-I-m-Harini-Nachimuthu-I-m-Software-Tester-127d4479bbdd809aad6ef636bcd9bc28)
 
 ### Blogs posts
